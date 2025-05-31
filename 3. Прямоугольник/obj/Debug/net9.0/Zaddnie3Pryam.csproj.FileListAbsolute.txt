@@ -1,0 +1,14 @@
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\Zaddnie3Pryam\bin\Debug\net9.0\Zaddnie3Pryam.exe
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\Zaddnie3Pryam\bin\Debug\net9.0\Zaddnie3Pryam.deps.json
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\Zaddnie3Pryam\bin\Debug\net9.0\Zaddnie3Pryam.runtimeconfig.json
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\Zaddnie3Pryam\bin\Debug\net9.0\Zaddnie3Pryam.dll
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\Zaddnie3Pryam\bin\Debug\net9.0\Zaddnie3Pryam.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\Zaddnie3Pryam\obj\Debug\net9.0\Zaddnie3Pryam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\Zaddnie3Pryam\obj\Debug\net9.0\Zaddnie3Pryam.AssemblyInfoInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\Zaddnie3Pryam\obj\Debug\net9.0\Zaddnie3Pryam.AssemblyInfo.cs
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\Zaddnie3Pryam\obj\Debug\net9.0\Zaddnie3Pryam.csproj.CoreCompileInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\Zaddnie3Pryam\obj\Debug\net9.0\Zaddnie3Pryam.dll
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\Zaddnie3Pryam\obj\Debug\net9.0\refint\Zaddnie3Pryam.dll
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\Zaddnie3Pryam\obj\Debug\net9.0\Zaddnie3Pryam.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\Zaddnie3Pryam\obj\Debug\net9.0\Zaddnie3Pryam.genruntimeconfig.cache
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\Zaddnie3Pryam\obj\Debug\net9.0\ref\Zaddnie3Pryam.dll
