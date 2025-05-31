@@ -1,0 +1,14 @@
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\Zadanie4Super\bin\Debug\net9.0\Zadanie4Super.exe
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\Zadanie4Super\bin\Debug\net9.0\Zadanie4Super.deps.json
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\Zadanie4Super\bin\Debug\net9.0\Zadanie4Super.runtimeconfig.json
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\Zadanie4Super\bin\Debug\net9.0\Zadanie4Super.dll
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\Zadanie4Super\bin\Debug\net9.0\Zadanie4Super.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\Zadanie4Super\obj\Debug\net9.0\Zadanie4Super.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\Zadanie4Super\obj\Debug\net9.0\Zadanie4Super.AssemblyInfoInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\Zadanie4Super\obj\Debug\net9.0\Zadanie4Super.AssemblyInfo.cs
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\Zadanie4Super\obj\Debug\net9.0\Zadanie4Super.csproj.CoreCompileInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\Zadanie4Super\obj\Debug\net9.0\Zadanie4Super.dll
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\Zadanie4Super\obj\Debug\net9.0\refint\Zadanie4Super.dll
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\Zadanie4Super\obj\Debug\net9.0\Zadanie4Super.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\Zadanie4Super\obj\Debug\net9.0\Zadanie4Super.genruntimeconfig.cache
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\Zadanie4Super\obj\Debug\net9.0\ref\Zadanie4Super.dll
