@@ -1,0 +1,28 @@
+C:\Users\sverl\1Zadanie\bin\Debug\net9.0\1Zadanie.exe
+C:\Users\sverl\1Zadanie\bin\Debug\net9.0\1Zadanie.deps.json
+C:\Users\sverl\1Zadanie\bin\Debug\net9.0\1Zadanie.runtimeconfig.json
+C:\Users\sverl\1Zadanie\bin\Debug\net9.0\1Zadanie.dll
+C:\Users\sverl\1Zadanie\bin\Debug\net9.0\1Zadanie.pdb
+C:\Users\sverl\1Zadanie\obj\Debug\net9.0\1Zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverl\1Zadanie\obj\Debug\net9.0\1Zadanie.AssemblyInfoInputs.cache
+C:\Users\sverl\1Zadanie\obj\Debug\net9.0\1Zadanie.AssemblyInfo.cs
+C:\Users\sverl\1Zadanie\obj\Debug\net9.0\1Zadanie.csproj.CoreCompileInputs.cache
+C:\Users\sverl\1Zadanie\obj\Debug\net9.0\1Zadanie.dll
+C:\Users\sverl\1Zadanie\obj\Debug\net9.0\refint\1Zadanie.dll
+C:\Users\sverl\1Zadanie\obj\Debug\net9.0\1Zadanie.pdb
+C:\Users\sverl\1Zadanie\obj\Debug\net9.0\1Zadanie.genruntimeconfig.cache
+C:\Users\sverl\1Zadanie\obj\Debug\net9.0\ref\1Zadanie.dll
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\1Zadanie\bin\Debug\net9.0\1Zadanie.exe
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\1Zadanie\bin\Debug\net9.0\1Zadanie.deps.json
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\1Zadanie\bin\Debug\net9.0\1Zadanie.runtimeconfig.json
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\1Zadanie\bin\Debug\net9.0\1Zadanie.dll
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\1Zadanie\bin\Debug\net9.0\1Zadanie.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\1Zadanie\obj\Debug\net9.0\1Zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\1Zadanie\obj\Debug\net9.0\1Zadanie.AssemblyInfoInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\1Zadanie\obj\Debug\net9.0\1Zadanie.AssemblyInfo.cs
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\1Zadanie\obj\Debug\net9.0\1Zadanie.csproj.CoreCompileInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\1Zadanie\obj\Debug\net9.0\1Zadanie.dll
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\1Zadanie\obj\Debug\net9.0\refint\1Zadanie.dll
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\1Zadanie\obj\Debug\net9.0\1Zadanie.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\1Zadanie\obj\Debug\net9.0\1Zadanie.genruntimeconfig.cache
+C:\Users\sverl\OneDrive\Рабочий стол\РГР АИП\1Zadanie\obj\Debug\net9.0\ref\1Zadanie.dll
